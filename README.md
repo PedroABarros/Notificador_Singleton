@@ -1,2 +1,2 @@
 # Notificador_Singleton
-Sistema de Notificações em Tempo Real para uma Plataforma de Ensino Online.
+O sistema representado pela classe Notificador serve para gerenciar o envio de notificações dentro de uma aplicação. Ele centraliza o processo de envio de mensagens para destinatários específicos ou para todos os usuários do sistema. O principal propósito desse sistema é garantir que todas as notificações sejam enviadas de forma consistente e que todo o processo de notificação seja gerenciado por uma única instância da classe.
